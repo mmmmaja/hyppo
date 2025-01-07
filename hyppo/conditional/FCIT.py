@@ -10,6 +10,8 @@ from sklearn.tree import DecisionTreeRegressor
 
 from .base import ConditionalIndependenceTest, ConditionalIndependenceTestOutput
 
+print("Hello World!")
+
 
 class FCIT(ConditionalIndependenceTest):
     r"""
